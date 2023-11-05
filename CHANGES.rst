@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.6.1 (unreleased)
+0.6.1 (2023-11-05)
 ------------------
 
 - Avoid using deprecated zope.app.appsetup and use instead zope.processlifetime.
